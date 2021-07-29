@@ -63,7 +63,7 @@ a {
 /* Logo */
 .logo {
   font-family: Raleway;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.2;
   margin-right: 93px;
@@ -343,6 +343,10 @@ button {
 }
 
 .filter-button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
+  text-align: center;
   background-color: #f5f4fa;
   color: var(--title-text-color);
   padding: 6px 22px;
